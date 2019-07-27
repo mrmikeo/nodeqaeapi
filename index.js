@@ -7,4 +7,4 @@ const qae = new qaeApi.default();
   var xxx = await qae.xxx;
   
   
-});
+})();
