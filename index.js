@@ -1,10 +1,10 @@
-const qaeApi = require("./lib/qaeApi");
-const qae = new qaeApi.default();
+/**
+ * @module qaeApi
+ * @license MIT
+ */
 
+module.exports = {
 
-(async () => {
-  
-  var xxx = await qae.xxx;
-  
-  
-})();
+	qaeApi: require("./lib/qaeApi"),
+
+};
