@@ -17,8 +17,9 @@ const qae = new qaeApi.default();
 
 (async () => {
   
-  var xxx = await qae.xxx;
+  var tokenList = await qae.listTokens();
   
+  console.log(tokenList);
   
 })();
 ```
