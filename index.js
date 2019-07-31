@@ -3,8 +3,5 @@
  * @license MIT
  */
 
-module.exports = {
+module.exports = require("./lib/qaeApi");
 
-	qaeApi: require("./lib/qaeApi"),
-
-};
