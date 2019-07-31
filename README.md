@@ -1,6 +1,6 @@
 # Node Qredit QAE API Helper
 
-[![Build Status](https://travis-ci.org/mrmikeo/nodeqaeapi.svg?branch=master)](https://travis-ci.org/mrmikeo/nodeqaeapi)
+[![Build Status](https://travis-ci.org/mrmikeo/nodeqaeapixxx.svg?branch=master)](https://travis-ci.org/mrmikeo/nodeqaeapixxx)
 [![https://telegram.me/@MrMike_O](https://img.shields.io/badge/💬%20Telegram-MrMike__O-blue.svg)](https://telegram.me/@MrMike_O)
 
 
