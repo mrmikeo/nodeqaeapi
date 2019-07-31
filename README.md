@@ -8,9 +8,10 @@ git clone https://github.com/mrmikeo/nodeqaeapi
 cd nodeqaeapi
 npm install
 
-node index.js
+node example.js
 ```
 
+example.js:
 ```
 const qaeApi = require("./lib/qaeApi");
 const qae = new qaeApi.default();
