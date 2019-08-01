@@ -8,6 +8,8 @@
     "url": "git+https://github.com/mrmikeo/nodeqaeapi.git"
   },
   "dependencies": {
+    "big.js": "^5.2.2",
+    "nodeQreditApi": "git+https://github.com/mrmikeo/nodeqreditapi.git",
     "request": "^2.88.0"
   },
   "devDependencies": {},
