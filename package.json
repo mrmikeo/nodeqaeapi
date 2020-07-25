@@ -10,7 +10,9 @@
   "dependencies": {
     "big.js": "^5.2.2",
     "nodeQreditApi": "git+https://github.com/mrmikeo/nodeqreditapi.git",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "@qredit/crypto": "git+https://github.com/Qredit/crypto.git",
+    "qreditjs": "git+https://github.com/Qredit/qredit-js.git"
   },
   "devDependencies": {},
   "scripts": {
